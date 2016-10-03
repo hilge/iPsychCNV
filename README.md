@@ -1,5 +1,5 @@
 # iPsychCNV
-
+An R package to detect copy number variants
 ##In R:
 ### To install
     setRepositories(ind=1:8)
